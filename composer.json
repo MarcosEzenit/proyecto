@@ -13,7 +13,8 @@
         "barryvdh/laravel-elfinder": "^0.4.3",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
-        "laravel/tinker": "^1.0"
+        "laravel/tinker": "^1.0",
+        "rebing/graphql-laravel": "^2.1"
     },
     "require-dev": {
         "backpack/generators": "^2.0",
